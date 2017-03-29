@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "aquro-plugin-transitions",
+  "cordova_name": "Native Page Transitions",
+  "description": "Slide out the current page to reveal the next one. By a native transitions.",
+  "license": "MIT",
+  "author": "Telerik / Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
+  "repo": "https://github.com/jnordstrom1983/aquro-plugin-transitions.git",
+  "issue": "https://github.com/jnordstrom1983/aquro-plugin-transitions/issues",
+  "keywords": [
+  ],
+  "platforms": [
+    "ios",
+    "android",
+    "wp8",
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
